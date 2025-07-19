@@ -63,8 +63,4 @@ Passionate frontend developer creating digital experiences
 [Email Me](mailto:janvigupta7000@gmail.com)  
 
 
-Important elements that replicate the authentic experience include: **Mobile-friendly design** that functions on all devices; **Interesting hover previews** that tease content; **Streamlined authentication** flow; and **Intuitive content organization** by franchise.
 
-## Looking Ahead
-
-As this
