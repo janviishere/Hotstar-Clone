@@ -11,7 +11,10 @@ The design is completely responsive and compatible with all devices.
 
 # Behind the Scenes
 
-The project is powered by the following technologies: **HTML5** for a strong page structure; **CSS3** for stunning responsive layouts, grids, and animations; and **JavaScript** for adding interactive elements to the interface.
+The project is powered by the following technologies: 
+HTML5 for a strong page structure;
+CSS3 for stunning responsive layouts, grids, and animations; and 
+JavaScript for adding interactive elements to the interface.
 
 # Project Tour
 
@@ -25,26 +28,17 @@ hotstar-clone/
 └── Pictures/ # All visual resources
 
 
-# Starting in 30 Seconds
+# Screenshot
 
-1. Use `git clone https://github.com/janviishere/Hotstar-Clone` to clone the repository.
-2. Launch the project by typing `cd Hotstar-Clone`.
-3. Start the adventure:  
-   Just launch `index.html` in your preferred web browser.
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215842" src="https://github.com/user-attachments/assets/ffeeec3f-aaeb-45be-9096-9457edb9eb57" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215902" src="https://github.com/user-attachments/assets/f712dcb8-5cc8-4c65-8069-c963d21b533c" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215938" src="https://github.com/user-attachments/assets/0f29bb53-73ea-44b4-8d9a-974d874e9e0b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215813" src="https://github.com/user-attachments/assets/d051fa9d-8f1d-4ee7-84d5-75df73d4175e" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215930" src="https://github.com/user-attachments/assets/8ee8968a-8427-4040-9594-459e7d96c2b6" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215827" src="https://github.com/user-attachments/assets/1789bf6e-04c9-4c73-87ab-fb6a1f5be9c3" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-19 215921" src="https://github.com/user-attachments/assets/5a235e61-dcbc-4b2e-afc0-72a12fd67cdc" />
 
-# Visual Display
 
-# Initial Thoughts![Page of Landing](Poster%201.png Images)  
-*The welcoming homepage that welcomes visitors*
-
-# Finding Content![Slider Area](Slider%201.PNG Images)  
-Carousels of horizontally scrolling content
-
-# Immersive Sneak Peek![Preview of Star Wars](Images/star-wars.PNG)  
-*Hover effects that give thumbnails life*
-
-# Brand Recognition![Logo for Hotstar](Images/logo%20(1).png)  
-*The recognizable Disney+ Hotstar logo*
 
 # Future Vision
 
