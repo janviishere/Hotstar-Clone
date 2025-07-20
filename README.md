@@ -52,8 +52,7 @@ While this captures the Hotstar experience visually, I'm excited to:
 
 **Janvi Gupta**  
 Passionate frontend developer creating digital experiences  
-
-[GitHub Portfolio](https://github.com/janviishere)  
+[Linkdin Profile](https://www.linkedin.com/in/janvi-gupta-4209a7329/)
 [Email Me](mailto:janvigupta7000@gmail.com)  
 
 
